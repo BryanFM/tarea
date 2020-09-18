@@ -1,0 +1,2 @@
+Nro 1, Nombre: Bryan Flores Magallanes, Notas: [10, 11, 12, 13, 14, 15, 15, 18, 12, 10], Nota Minima: 10, Nota Maxima: 18, Promedio: 13.0
+Nro 2, Nombre: Juan Perez, Notas: [12, 13, 15], Nota Minima: 12, Nota Maxima: 15, Promedio: 13.333333333333334

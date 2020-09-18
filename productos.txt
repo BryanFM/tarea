@@ -1,0 +1,3 @@
+Factura N° 1, Nombre: d:/sem7/myenv/Scripts/python.exe d:/sem7/main.py, Cantidad: asdasdas0da, Costo: sd0a
+Factura N° 2, Nombre: sd, Cantidad: , Costo: asd
+Factura N° 3, Nombre: Leche, Cantidad: 2, Costo: 2.5
